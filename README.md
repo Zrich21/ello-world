@@ -1,2 +1,4 @@
 # ello-world
-first name
+first name: Zeke
+last name: Richmond
+freshman at GVSU 
